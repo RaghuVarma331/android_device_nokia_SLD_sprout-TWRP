@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_SLD_sprout.mk
+    $(LOCAL_DIR)/lineage_SLD_sprout.mk
